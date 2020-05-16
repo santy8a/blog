@@ -8,8 +8,6 @@ Suscripción de Azure: si no tiene una suscripción a Azure, cree una cuenta gra
 
 Terraform permite definir y crear implementaciones completas de infraestructura de Azure. Se crean plantillas de Terraform en un formato legible para el usuario para crear y configurar recursos de Azure de forma coherente y reproducible. En este artículo se muestra cómo crear un entorno completo de Linux y recursos de apoyo con Terraform. También puede aprender a [instalar y configurar Terraform](install-configure.md).
 
-[!INCLUDE [hashicorp-support.md](includes/hashicorp-support.md)]
-
 ## <a name="prerequisites"></a>Prerrequisitos
 
 - Suscripción de Azure: si no tiene una suscripción a Azure, cree una cuenta gratuita de Azure antes de empezar.
