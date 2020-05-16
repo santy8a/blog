@@ -1,5 +1,5 @@
 ---
-title: "Inicio rápido: Creación de una máquina virtual Linux con infraestructura en Azure mediante Terraform"
+title: "Inicio rápido: Creación de una máquina virtual Linux con infraestructura en Azure mediante terraform"
 date: "2020-05-16T22:12:03.284Z"
 description: "Aprenda a usar Terraform para crear y administrar un entorno completo de máquina virtual Linux en Azure."
 ---
