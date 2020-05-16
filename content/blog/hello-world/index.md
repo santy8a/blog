@@ -4,7 +4,7 @@ date: "2020-05-16T22:12:03.284Z"
 description: "Aprenda a usar Terraform para crear y administrar un entorno completo de máquina virtual Linux en Azure."
 ---
 
-# <a name="quickstart-create-a-linux-vm-with-infrastructure-in-azure-using-terraform"></a>Inicio rápido: Creación de una máquina virtual Linux con infraestructura en Azure mediante Terraform
+Suscripción de Azure: si no tiene una suscripción a Azure, cree una cuenta gratuita de Azure antes de empezar.
 
 Terraform permite definir y crear implementaciones completas de infraestructura de Azure. Se crean plantillas de Terraform en un formato legible para el usuario para crear y configurar recursos de Azure de forma coherente y reproducible. En este artículo se muestra cómo crear un entorno completo de Linux y recursos de apoyo con Terraform. También puede aprender a [instalar y configurar Terraform](install-configure.md).
 
@@ -12,7 +12,7 @@ Terraform permite definir y crear implementaciones completas de infraestructura 
 
 ## <a name="prerequisites"></a>Prerrequisitos
 
-[!INCLUDE [open-source-devops-prereqs-azure-subscription.md](../includes/open-source-devops-prereqs-azure-subscription.md)]
+- Suscripción de Azure: si no tiene una suscripción a Azure, cree una cuenta gratuita de Azure antes de empezar.
 
 ## <a name="create-azure-connection-and-resource-group"></a>Creación de la conexión y el grupo de recursos de Azure
 
